@@ -17,6 +17,23 @@ else if (hiringFreelancer)
 
 ### Some of my work
 
+#### Social Media Clone
+This is a fully featured social media app built specifically for your company or organization ([contact me](https://exigent.dev) for a quote). A demo is available on the Play Store and an App Store Test Flight link is available on request. Post, like, comment, like comments, view and create events, and access related resources all from within the app. Log in with your social, and opt in to the local career network to easily reach out to peers in your field.
+
+<p>
+  <img src="assets/sm1.png" alt="App Screenshot" style="height: 350px;" />
+  <img src="assets/sm2.png" alt="App Screenshot" style="height: 350px;" />
+  <img src="assets/sm3.png" alt="App Screenshot" style="height: 350px;" />
+  <img src="assets/sm4.png" alt="App Screenshot" style="height: 350px;" />
+  <img src="assets/sm5.png" alt="App Screenshot" style="height: 350px;" />
+</p>
+
+<div>
+  <a href="https://play.google.com/store/apps/details?id=dev.exigent.socialdemo" style="display: inline-block;">
+    <img src="assets/googleplay.png" alt="Download on the Play Store" style="height: 50px; vertical-align: middle; object-fit: contain;" />
+  </a>
+</div>
+
 #### Four Gospels Quiz (freelance)
 This is a quiz game built in Flutter and on Firebase as the backend (with some fancy google scripts on a google sheet). The game features over 1,600 multiple-choice questions, score tracking, multiplayer support, and a user-friendly interface. It is built on a reusable quiz game engine that can support multiple formats and topics. It is also localized for Spanish and Portuguese.
 
