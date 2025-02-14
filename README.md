@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jakehadley&left_color=green&right_color=red)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jakehadley)
